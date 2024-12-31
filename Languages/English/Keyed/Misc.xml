@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <TMH_ExtractBioferrite>Extract 150 bioferrite</TMH_ExtractBioferrite>
+  <TMH_ExtractBioferriteDesc>Extract 150 bioferrite from the tank. A pawn will come to extract it.</TMH_ExtractBioferriteDesc>
+
+  <TMH_BioferriteValve>Switches bioferrite flow on/off.</TMH_BioferriteValve>
+  <TMH_BioferriteValveDesc>Switches bioferrite flow on/off. A pawn will come open/close the valve.</TMH_BioferriteValveDesc>
+
+</LanguageData>

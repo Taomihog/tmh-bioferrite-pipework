@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Bioferrite Pipework</name>
+	<author>Taomihog</author>
+	<url/>
+	<description>Vanilla Chemfuel Expanded is a small mod created to showcase what the new Pipe network code is capable of in Vanilla Expanded framework. It adds a simple chain to extract Deepchem from the underground pockets and refine it into Chemfuel. It also adds storage solutions for both Deepchem and standard chemfuel, alongside a few structures including a Refinery and Chemfuel tap. Player can now connect any refuelable chemfuel-powered structures to the pipe network to make sure everything refuels automatically.
+	Thanks for Oskar Potocki and Kikohi
+	</description>
+	<supportedVersions>
+		<li>1.5</li>
+	</supportedVersions>
+	<modIconPath IgnoreIfNoMatchingField="True">UI/VELogo</modIconPath>
+	<packageId>TMH.BioferritePipework</packageId>
+	<modDependencies>
+		<li>
+			<packageId>brrainz.harmony</packageId>
+			<displayName>Harmony</displayName>
+			<downloadUrl>https://github.com/pardeike/HarmonyRimWorld/releases/latest</downloadUrl>
+			<steamWorkshopUrl>https://steamcommunity.com/workshop/filedetails/?id=2009463077</steamWorkshopUrl>
+		</li>
+		<li>
+			<packageId>OskarPotocki.VanillaFactionsExpanded.Core</packageId>
+			<displayName>Vanilla Expanded Framework</displayName>
+			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=1854607105</steamWorkshopUrl>
+		</li>
+	</modDependencies>
+	<loadAfter>
+		<li>Ludeon.RimWorld</li>
+		<li>Ludeon.RimWorld.Royalty</li>
+		<li>brrainz.harmony</li>
+		<li>OskarPotocki.VanillaFactionsExpanded.Core</li>
+		<li>VanillaExpanded.VFEPower</li>
+	</loadAfter>
+</ModMetaData>
